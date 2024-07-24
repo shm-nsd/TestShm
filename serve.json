@@ -1,0 +1,82 @@
+{
+ "rewrites": [
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/example/app/v/0_0_1",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/example/app/v/0_0_1/s/0eeb605a7191aad3b5578d27235667aa3355c12f/bundle_example_app.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/example%2Fapp%2Fv%2F0_0_1",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/example/app/v/0_0_1/s/0eeb605a7191aad3b5578d27235667aa3355c12f/bundle_example_app.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/example/app",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/example/app/v/0_0_1/s/0eeb605a7191aad3b5578d27235667aa3355c12f/bundle_example_app.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/example%2Fapp",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/example/app/v/0_0_1/s/0eeb605a7191aad3b5578d27235667aa3355c12f/bundle_example_app.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/@lwrjs/app-service/example/module/esm/v/0_13_2",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/@lwrjs/app-service/example/module/esm/v/0_13_2/s/cd795a8274138eb2a1fcb756961b5fd8aad7d046/bundle_@lwrjs_app-service_example_module_esm.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/%40lwrjs%2Fapp-service%2Fexample%2Fmodule%2Fesm%2Fv%2F0_13_2",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/@lwrjs/app-service/example/module/esm/v/0_13_2/s/cd795a8274138eb2a1fcb756961b5fd8aad7d046/bundle_@lwrjs_app-service_example_module_esm.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/@lwrjs/app-service/example/module/esm",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/@lwrjs/app-service/example/module/esm/v/0_13_2/s/cd795a8274138eb2a1fcb756961b5fd8aad7d046/bundle_@lwrjs_app-service_example_module_esm.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/%40lwrjs%2Fapp-service%2Fexample%2Fmodule%2Fesm",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/@lwrjs/app-service/example/module/esm/v/0_13_2/s/cd795a8274138eb2a1fcb756961b5fd8aad7d046/bundle_@lwrjs_app-service_example_module_esm.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/lwc/v/7_1_2",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/lwc/v/7_1_2/s/f443c7c86baddd884745485d1c6951e9c01d4e12/bundle_lwc.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/lwc%2Fv%2F7_1_2",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/lwc/v/7_1_2/s/f443c7c86baddd884745485d1c6951e9c01d4e12/bundle_lwc.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/lwc",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/lwc/v/7_1_2/s/f443c7c86baddd884745485d1c6951e9c01d4e12/bundle_lwc.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/lwr/esmLoader/v/0_13_2",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/lwr/esmLoader/v/0_13_2/s/a2ad51132b7d4b7b68d1cae7d7987833fc6f1038/bundle_lwr_esmLoader.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/lwr%2FesmLoader%2Fv%2F0_13_2",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/lwr/esmLoader/v/0_13_2/s/a2ad51132b7d4b7b68d1cae7d7987833fc6f1038/bundle_lwr_esmLoader.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/lwr/esmLoader",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/lwr/esmLoader/v/0_13_2/s/a2ad51132b7d4b7b68d1cae7d7987833fc6f1038/bundle_lwr_esmLoader.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/lwr%2FesmLoader",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/lwr/esmLoader/v/0_13_2/s/a2ad51132b7d4b7b68d1cae7d7987833fc6f1038/bundle_lwr_esmLoader.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/lwr/profiler/v/0_13_2",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/lwr/profiler/v/0_13_2/s/f1c930c67657b05ccf5619a801df4e4e01b27927/bundle_lwr_profiler.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/lwr%2Fprofiler%2Fv%2F0_13_2",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/lwr/profiler/v/0_13_2/s/f1c930c67657b05ccf5619a801df4e4e01b27927/bundle_lwr_profiler.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/lwr/profiler",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/lwr/profiler/v/0_13_2/s/f1c930c67657b05ccf5619a801df4e4e01b27927/bundle_lwr_profiler.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/lwr%2Fprofiler",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/lwr/profiler/v/0_13_2/s/f1c930c67657b05ccf5619a801df4e4e01b27927/bundle_lwr_profiler.js"
+  }
+ ],
+ "directoryListing": false,
+ "renderSingle": true
+}
